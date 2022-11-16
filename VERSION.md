@@ -5,7 +5,7 @@ Version history
 
 ## Terraform resources
 
-* In this version the following resources are deployed under `rg-us-policy-resource-group`
+* In this version the following resources are deployed under `rg-<group_name>-resource-group`
 
 | Resource Type | Resource Name |   
 | ------------- |:-------------:|
